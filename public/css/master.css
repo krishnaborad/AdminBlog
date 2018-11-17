@@ -1,0 +1,29 @@
+#modal{
+  border-radius: 0px 0px 0px 0px;
+  -moz-border-radius: 0px 0px 0px 0px;
+  -webkit-border-radius: 0px 0px 0px 0px;
+  border: 0px solid #000000;
+  padding: 34px;
+
+
+}
+.input-line {
+  background: #fff9f952;
+  margin-bottom: 10px;
+  line-height: 2.4em;
+  font-size: 19px;
+  font-size: 1.2rem;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+}
+.full-width {
+  width: 100%;
+}
+.bouncy{
+  background-color: #1f97e859;
+  border-radius: 20px 20px 20px 20px;
+  -moz-border-radius: 20px 20px 20px 20px;
+  -webkit-border-radius: 20px 20px 20px 20px;
+  border: 0px solid #000000;
+
+}
